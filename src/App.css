@@ -1,0 +1,21 @@
+.title{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 60px;
+}
+.container__2{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    text-align: center;
+    margin-top: 30px;
+    font-size: 22px;
+    column-gap: 30px;
+    row-gap: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.users{
+    background-color: rgba(143, 142, 142, 0.281);
+    border-radius: 15px;
+}
